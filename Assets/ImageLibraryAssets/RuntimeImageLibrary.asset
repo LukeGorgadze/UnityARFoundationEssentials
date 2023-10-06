@@ -19,9 +19,9 @@ MonoBehaviour:
       m_GuidLow: 5238647376842116937
       m_GuidHigh: 14837882371889862542
     m_SerializedTextureGuid:
-      m_GuidLow: 11874160580025091691
-      m_GuidHigh: 15923888875939329465
-    m_Size: {x: 0.1, y: 0.1}
+      m_GuidLow: 3775933425777323555
+      m_GuidHigh: 10501519774010208889
+    m_Size: {x: 0.1, y: 0.11228719}
     m_SpecifySize: 1
     m_Name: Unity Logo
     m_Texture: {fileID: 0}

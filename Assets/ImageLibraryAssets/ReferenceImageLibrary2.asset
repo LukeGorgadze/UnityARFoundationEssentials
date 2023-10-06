@@ -19,9 +19,9 @@ MonoBehaviour:
       m_GuidLow: 5514777026108496451
       m_GuidHigh: 9450346654719688883
     m_SerializedTextureGuid:
-      m_GuidLow: 4925426348385258232
-      m_GuidHigh: 5182315187518776762
-    m_Size: {x: 0.1, y: 0.06368687}
+      m_GuidLow: 3775933425777323555
+      m_GuidHigh: 10501519774010208889
+    m_Size: {x: 0.1, y: 0.11228719}
     m_SpecifySize: 1
     m_Name: Kneaders Card
     m_Texture: {fileID: 0}
